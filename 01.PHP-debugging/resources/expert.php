@@ -28,5 +28,5 @@ echo $monday;
 
 //Exercise 3
 
-$str = “Debugged ! Also very fun”;
+$str = "Debugged ! Also very fun";
 echo substr($str, 0, 10);
